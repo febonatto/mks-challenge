@@ -1,6 +1,8 @@
 # mks-challenge
 Aplicação feita para processo seletivo da empresa MKS Sistemas.
 
+Tomei cuidado para utilizar de todas as tecnologias da qual a vaga pede, tanto pelos requisitos da vaga pelo LinkedIn quanto pelo Github do teste, que possuiam uma ou outra diferença em cima dos requisitos da vaga. Acho de extrema importância demonstrar que estou a par das tecnologias que a empresa usa incluindo até mesmo coisas que não foram pedidas como: filtros com base em sortBy e orderBy, já que a request da API proporciona esses parâmetros.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
