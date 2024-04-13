@@ -8,7 +8,7 @@ export const ProductContainer = styled.div`
   align-items: center;
   gap: 24px;
   flex: 1;
-  padding: 24px 0;
+  padding: 24px 16px;
   overflow-y: auto;
 `;
 

@@ -61,7 +61,7 @@ export function Products() {
     <ProductContainer>
       <ProductsList>
         <ProductsFilters>
-          <FormControl sx={{ m: 1, minWidth: 120 }}>
+          <FormControl sx={{ minWidth: 120 }}>
             <InputLabel id="select-sort-by">Ordernar por</InputLabel>
             <Select
               labelId="select-sort-by"

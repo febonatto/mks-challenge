@@ -10,7 +10,7 @@ export const CartContainer = styled.aside`
   width: 328px;
   height: 100dvh;
   background: #0f52ba;
-  z-index: 1;
+  z-index: 999;
 
   @media screen and (min-width: 768px) {
     width: 556px;
